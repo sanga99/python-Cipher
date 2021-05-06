@@ -39,6 +39,7 @@ decrypt = aes.decrypt(encrypt)
 print(encrypt)
 print(decrypt)
 
+
 #### 양방향 암호화 #####
 # 1. pip 설치
 # 2. python 설치(현재 3.9.x)
